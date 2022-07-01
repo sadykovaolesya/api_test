@@ -1,0 +1,1 @@
+[{"model": "api.service", "pk": 1, "fields": {"name": "консультация"}}, {"model": "api.service", "pk": 2, "fields": {"name": "лечение"}}, {"model": "api.service", "pk": 3, "fields": {"name": "стационар"}}, {"model": "api.service", "pk": 4, "fields": {"name": "диагностика"}}, {"model": "api.service", "pk": 5, "fields": {"name": "лаборатория"}}]
